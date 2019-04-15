@@ -1,0 +1,17 @@
+#
+!.gitignore
+
+# Test Files
+*.exe
+*.in
+*.out
+*.txt
+*.log
+*.bat
+
+# Local Configs
+.vscode/
+*.ini
+
+# Private Files
+private/
